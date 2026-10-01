@@ -2,6 +2,8 @@
 
 Türkçe ses ve diksiyon çalışmaları için Android'e kurulabilen, çevrimdışı çalışan kişisel PWA.
 
+**Uygulamayı aç:** [ses-atolyem.omselkara.workers.dev](https://ses-atolyem.omselkara.workers.dev)
+
 Hafta 0 başlangıç ölçümü ve 12 haftalık program; piyano/referans tonları, canlı tuner, ses kaydı, nefes sayacı, diksiyon metinleri, T1–T6 testleri, aşama kriterleri ve haftalık raporlar bir arada.
 
 ## Çalıştırma
